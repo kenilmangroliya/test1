@@ -1,0 +1,23 @@
+1 Ans. = A very Thoughtful Question : It is because binary is a machine language which has 0 and 1, means it records the data in form of 0 and 1 as electric signal. Computer is a electronic device.
+2 Ans. = IDE stand for "integrated development environment"
+3 Ans. = A text editor simply allows you to write and edit text and it does not have anything built-in to help you to code whereas 
+	 A code editor is also a text editor but it also helps you write code. 
+4 Ans. =Develope software using C language
+	Step 1: Download Dev/C++ ...
+	Step 2: Install Dev/C++ ...
+	Step 3: Create First Project. ...
+	Step 4: Write Your Program. ...
+	Step 5: Save and Compile Code. ...
+	Step 6: Run Your Code. ...
+	Step 7: More Resources.
+5 Ans. = 
+	a) C17 is the latest version of C language.
+	b) Dennis Ritchie developed C language.
+	c) A System Software acts as an interface between the system and the application software. The various Operating systems are the best example as it allows the user to download and work with various applications on their device. On the other hand, Application Software is designed for users
+	d) Step 1. Divide the integer by 2, while noting the quotient and remainder.
+
+	   Step 2. Then, divide the quotient again by 2, and record the 3rd quotient and remainder.
+
+	   Step 3. Like this, keep dividing each successive quotient by 2 until you get a quotient of zero.
+
+	   Step 4. After this, just write all the remainders in reverse order to get the binary representation of the integer.
